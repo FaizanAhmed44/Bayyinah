@@ -1,6 +1,6 @@
 # 📌 **Bayyinah - Quran Reading App**  
 
-**Bayyinah** is a Flutter-based Quran reading application designed for a seamless and enriched user experience. The app provides users with the ability to read the Quran, listen to audio recitations, save the last read verses, and navigate the Quran by Parah. It ensures a smooth, user-friendly interface for an engaging and spiritual journey.
+**Bayyinah** is a Flutter-based Quran reading application designed for a seamless and enriched user experience. The app provides users with the ability to read the Quran, listen to audio recitations, save the last read verses, and navigate the Quran by Parah. It ensures a smooth, user-friendly interface for an engaging and spiritual journey.  
 🚧 Note: This project is still in progress and under active development. Some features may not be fully implemented yet. 🚧
 
 ---
