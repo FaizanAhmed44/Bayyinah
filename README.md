@@ -5,7 +5,8 @@
 ---
 
 
-![15+ Screens (2)](https://github.com/user-attachments/assets/65e82bc0-e67d-471b-bc71-a373c57b5962)
+![15+ Screens (5)](https://github.com/user-attachments/assets/059372a3-cf9f-49b2-ae80-a373d30549c4)
+
 
 
 ---
@@ -31,13 +32,15 @@
 
 ---
 
+
 ## 💻 **Tech Stack**
 - **Frontend:** Flutter (Dart)  
 - **State Management:** Provider  
-- **Database:** Firebase (Firestore)  
-- **Storage:** Firebase Storage (for Quranic audio files)  
+- **Quran API:** for Quranic text and translations 
+
 
 ---
+
 
 ## 🛠 **Installation**  
 
@@ -58,7 +61,9 @@ flutter pub get
 flutter run
 ```
 
+
 ---
+
 
 ## 📂 **Project Structure**
 ```
@@ -98,6 +103,7 @@ bayyinah/
 │── 📜 README.md                   # Project documentation
 ```
 
+
 ### 📂 **Main Folder Breakdown**
 - lib/ → Main application codebase, including features, UI, and logic.  
 - theme/ → Defines app-wide styling, colors, and fonts.  
@@ -107,14 +113,22 @@ bayyinah/
 - pubspec.yaml → Defines dependencies, assets, and app configurations.  
 - README.md → Project documentation file.  
 
+
 ---
+
 
 ## 📸 **Screenshots**
-> Add screenshots of your application for better visibility.  
-> ![Screenshot 1](https://github.com/user-attachments/assets/sample1.png)  
-> ![Screenshot 2](https://github.com/user-attachments/assets/sample2.png)  
+
+> ### **Dark Mode**
+ <img src="asset/images/dark3.png" width="240" height="460">     <img src="asset/images/dark2.png" width="240" height="460">     <img src="asset/images/dark1.png" width="240" height="460">
+
+
+> ### **Light Mode**
+ <img src="asset/images/light3.png" width="240" height="460">     <img src="asset/images/light2.png" width="240" height="460">     <img src="asset/images/light1.png" width="240" height="460">
+
 
 ---
+
 
 ## ⚙️ **How It Works**
 ### 1️⃣ Quran Reading  
@@ -126,18 +140,22 @@ bayyinah/
 - **Multiple Qaris** available for selection.  
 
 ### 3️⃣ Last Read Bookmarking  
-- The app **automatically saves** the last read verse for easy resumption.  
+- The app **saves** the last read verse for easy resumption.  
 - Users can also **manually bookmark** specific verses.  
 
 ### 4️⃣ Dark & Light Mode  
 - Users can toggle between **light and dark themes** for a better reading experience.  
 
+
 ---
+
 
 ## 📜 **License**
 This project is licensed under the **MIT License**.
 
+
 ---
+
 
 ## 🧑 **Author**
 **Faizan Ahmed**  
